@@ -15,6 +15,7 @@ BuildRequires:  boost-devel >= 1.34
 BuildRequires:  fuse-devel >= 2.6
 BuildRequires:  gettext-devel
 BuildRequires:  autoconf
+BuildRequires:  automake
 
 %description
 EncFS implements an encrypted filesystem in userspace using FUSE.  FUSE
