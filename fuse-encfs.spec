@@ -17,7 +17,7 @@ BuildRequires:  gettext-devel
 BuildRequires:  autoconf
 BuildRequires:  automake
 BuildRequires:  libtool
-BuildRequires:  perl
+BuildRequires:  perl-Pod-Html
 BuildRequires:  libattr-devel
 
 %description
