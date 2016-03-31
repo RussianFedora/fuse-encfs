@@ -13,7 +13,7 @@ BuildRequires:  rlog-devel >= 1.3
 BuildRequires:  openssl-devel
 BuildRequires:  boost-devel >= 1.34
 BuildRequires:  fuse-devel >= 2.6
-BuildRequires:  gettext
+BuildRequires:  gettext-devel
 BuildRequires:  autoconf
 
 %description
