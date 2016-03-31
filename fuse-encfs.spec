@@ -17,6 +17,8 @@ BuildRequires:  gettext-devel
 BuildRequires:  autoconf
 BuildRequires:  automake
 BuildRequires:  libtool
+BuildRequires:  perl
+BuildRequires:  libattr-devel
 
 %description
 EncFS implements an encrypted filesystem in userspace using FUSE.  FUSE
